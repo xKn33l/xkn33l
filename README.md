@@ -12,7 +12,7 @@ I write code, I think?
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xkn33l&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkn33l&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkn33l&theme=tokyonight&hide_border=true&layout=classic" />
 </a>
 
 ### BTW I USE  
