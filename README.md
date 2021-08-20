@@ -15,6 +15,7 @@ I write code, I think?
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkn33l&theme=tokyonight&hide_border=true" />
 </a>
 
-
+### BTW I USE  
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
