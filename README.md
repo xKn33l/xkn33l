@@ -1,6 +1,5 @@
 # 𝗛𝗲𝗹𝗹𝗼, 𝗜'𝗺 Kneel
 
-[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kneel)
 ![](https://komarev.com/ghpvc/?username=xkn33l&label=VIEWS&style=flat-square)
 
 ![](https://github-profile-trophy.vercel.app/?username=xkn33l&no-frame=true&theme=nord)
